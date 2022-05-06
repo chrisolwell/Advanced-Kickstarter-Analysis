@@ -2,7 +2,7 @@
 
 ## Analyzing Kickstarter data to learn about success rates at different goal amounts
 
-### At the request of the client, we set out to determine with greater specificity the Kickstarter launch dates and goal amounts for plays that are most likely to find success. What follows is an explanation of the methodology we used to make those determinations, the challenges we faced and how we overcame them, the outcomes we found, and the recommendations we make based on the results of our analysis. 
+At the request of the client, we set out to determine with greater specificity the Kickstarter launch dates and goal amounts for plays that are most likely to find success. What follows is an explanation of the methodology we used to make those determinations, the challenges we faced and how we overcame them, the outcomes we found, and the recommendations we make based on the results of our analysis. 
 
 ## Analysis and Challenges 
 
